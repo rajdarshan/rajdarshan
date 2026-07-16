@@ -26,6 +26,6 @@ I am a senior-tier iOS engineer with over a decade of experience designing, scal
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshanraju1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdarshan1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachdarshanraju@gmail.com)
 
 *“Clean code always looks like it was written by someone who cares.” — Michael Feathers*
